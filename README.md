@@ -1,6 +1,6 @@
 # latihan1
 ![foto1](https://raw.githubusercontent.com/virgyalamsyah/latihan1/master/images1.png)
-Mmembuat repository di github lalu klik pilih start project
+Membuat repository di github lalu klik pilih start project
 ![foto2](https://raw.githubusercontent.com/virgyalamsyah/latihan1/master/images2.png)
 Isi sesuai keinginan untuk pilihan README tidak usah di pilih, sedangkan .gitignore untuk mengabaikan jenis file. Jika sudah klik Create Repository
 ![foto3](https://raw.githubusercontent.com/virgyalamsyah/latihan1/master/images3.png)
